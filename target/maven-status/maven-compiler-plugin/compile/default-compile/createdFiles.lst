@@ -1,0 +1,15 @@
+com\assignment\restapi\EmailConfiguration.class
+com\assignment\restapi\controller\FileRestController$NoValidContent.class
+com\assignment\restapi\controller\FileRestController.class
+com\assignment\restapi\client\AssignmentApplicationClient.class
+com\assignment\restapi\util\FileUtility.class
+com\assignment\restapi\AssignmentApplication.class
+com\assignment\restapi\controller\FileRestController$NotFoundException.class
+com\assignment\restapi\enums\SearchCriteriaEnum.class
+com\assignment\restapi\service\FileService.class
+com\assignment\restapi\dao\IFileDao.class
+com\assignment\restapi\model\FileMetaData.class
+com\assignment\restapi\dao\FileDao.class
+com\assignment\restapi\service\IFileService.class
+com\assignment\restapi\model\FileData.class
+com\assignment\restapi\task\FileWatcherTask.class
