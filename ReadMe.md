@@ -25,3 +25,8 @@ To test this functionality set email.ToAddress in application.assignment.propert
 
 Note:Set  @PropertySource("application-localtest.properties") or  @PropertySource("application-assignment.properties") as per testing 
 Since Profiler is not setup.
+
+Note if Reverse Proxy is needed to run this microservice then change port to 9000 and start Spring Rest Proxy Server at default port 8080
+New Proxy service - Url http://localhost:8080/filesapi
+Example http://localhost:8080/filesapi/fileService/findMetaData?user=qwerty
+
